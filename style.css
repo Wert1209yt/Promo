@@ -25,7 +25,8 @@ font-size: 30px;
 }
 
 .github {
-color: black;
+color: white;
+background: black;
 height: 50px;
 weight: 100px;
 border-radius: none;
