@@ -1,0 +1,27 @@
+body {
+weight: 100%;
+height: 100%;
+font-family: "Roboto", Arial, sans-serif;
+background-image: url(bg.jpg);
+}
+
+h1 {
+color: red;
+}
+
+.content {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+height: 100vh;
+text-align: center;
+color: white;
+font-size: 30px;
+}
+
+.github {
+color: black;
+height: 50px;
+weight: 100px;
+}
