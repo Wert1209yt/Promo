@@ -5,6 +5,13 @@ font-family: "Roboto", Arial, sans-serif;
 background-image: url(bg.jpg);
 }
 
+a {
+weight: 100%;
+height: 100%;
+text-decoration: none;
+color: black;
+}
+
 h1 {
 color: red;
 }
