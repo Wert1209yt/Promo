@@ -31,10 +31,11 @@ height: 50px;
 weight: 100px;
 border-style: solid;
 border-width: 2px;
-border-radius: 2px;
+border-radius: 3px;
 }
 
 .github:hover {
 transform: scale(1.05);
-background: #3f3f3f
+background: #3f3f3f;
+outline: none;
 }
