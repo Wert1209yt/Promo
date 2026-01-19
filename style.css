@@ -29,5 +29,7 @@ color: white;
 background: black;
 height: 50px;
 weight: 100px;
-border-radius: none;
+border-style: solid;
+border-width: 2px;
+border-radius: 2px;
 }
